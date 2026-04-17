@@ -6,12 +6,7 @@ Business Information Systems and Cyberspace Security.
 </p>
 
 <p align="center">
-My main interests include cybersecurity, cloud computing, Java, data science, and e-commerce.
-I enjoy learning continuously and developing skills that connect technology with real-world business needs.
-</p>
-
-<p align="center">
-🎓 Business Informatics Graduate • 🔐 Cyberspace Security • 📊 Business Information Systems • ☁️ Azure Data Fundamentals
+Interested in cybersecurity, cloud computing, Java, data science, and e-commerce.
 </p>
 
 <p align="center">
@@ -21,5 +16,5 @@ I enjoy learning continuously and developing skills that connect technology with
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,mysql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nodejs,git,github,vscode,postman" />
 </p>
