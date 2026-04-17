@@ -1,20 +1,20 @@
-<h1 align="center">Hi, I'm Cosmin 👋</h1>
+<div align="center">👋 Hello there! I'm Cosmin, a Business Informatics graduate 🎓 currently pursuing two M.Sc. degrees in Business Information Systems and Cyberspace Security. 💻 My main interests include cybersecurity, cloud computing, Java, data science, and e-commerce, and I am motivated to continuously learn and grow through practical experience.</div>
+<br/>
 
-<p align="center">
-Business Informatics graduate currently pursuing two M.Sc. degrees in
-Business Information Systems and Cyberspace Security.
-</p>
+<h2 align="center">Connect with me</h2>
+<div align="center">
+<a href="https://www.linkedin.com/in/cosminturca/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+</div>
 
-<p align="center">
-Interested in cybersecurity, cloud computing, Java, data science, and e-commerce.
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/cosminturca/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,git,github,vscode,postman" /><br>
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nodejs,git,github,vscode,postman" />
-</p>
+<br/>
+<hr/>
