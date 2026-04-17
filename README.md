@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Cosmin 👋</h1>
 
-<!--
-**cosminturca/cosminturca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Business Informatics graduate currently pursuing two M.Sc. degrees in
+Business Information Systems and Cyberspace Security.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+My main interests include cybersecurity, cloud computing, Java, data science, and e-commerce.
+I enjoy learning continuously and developing skills that connect technology with real-world business needs.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+🎓 Business Informatics Graduate • 🔐 Cyberspace Security • 📊 Business Information Systems • ☁️ Azure Data Fundamentals
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cosminturca/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,mysql,git,github,vscode,postman" />
+</p>
