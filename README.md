@@ -1,4 +1,4 @@
-<div align="center">Hi, I'm Cosmin, a Business Informatics graduate currently pursuing two M.Sc. degrees in Business Information Systems and Cyberspace Security. My main interests include cybersecurity, cloud computing, Java, data science, and e-commerce, and I am motivated to continuously learn and grow through practical experience.</div>
+<div align="center">Hi, I’m Cosmin, a Business Informatics graduate currently pursuing two master's degrees in Business Information Systems and Cyberspace Security. My main interests include cybersecurity, cloud computing, Java, data science, and e-commerce. I’m motivated to continuously learn and grow through practical experience.</div>
 <br/>
 
 <h2 align="center">Connect with me</h2>
