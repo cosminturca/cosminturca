@@ -1,4 +1,4 @@
-<div align="center">Hello there! I'm Cosmin, a Business Informatics graduate currently pursuing two M.Sc. degrees in Business Information Systems and Cyberspace Security. My main interests include cybersecurity, cloud computing, Java, data science, and e-commerce, and I am motivated to continuously learn and grow through practical experience.</div>
+<div align="center">Hi, I'm Cosmin, a Business Informatics graduate currently pursuing two M.Sc. degrees in Business Information Systems and Cyberspace Security. My main interests include cybersecurity, cloud computing, Java, data science, and e-commerce, and I am motivated to continuously learn and grow through practical experience.</div>
 <br/>
 
 <h2 align="center">Connect with me</h2>
@@ -10,7 +10,7 @@
 
 <br/>
 
-<h2 align="center">Languages-Frameworks-Tools</h2>
+<h2 align="center">Tech stack</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,git,github,vscode,postman" /><br>
